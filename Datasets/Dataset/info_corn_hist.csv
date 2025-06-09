@@ -1,0 +1,35 @@
+﻿"Tabela 839 - Área plantada, área colhida, quantidade produzida e rendimento médio de milho, 1ª e 2ª safras"
+"Variável";"";"Produto das lavouras temporárias x Ano"
+"Variável";"";"Total"
+"Variável";"";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023"
+"Área plantada (Hectares)";"Brasil";"13343992";"12864838";"12249103";"12997372";"14010838";"14747249";"13373201";"12185506";"13605369";"15065288";"15711617";"15843121";"15848557";"16051087";"17739683";"16548228";"17774535";"18356420";"19547959";"21310249";"22551202"
+"Área plantada - percentual do total geral";"Brasil";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00"
+"Área colhida (Hectares)";"Brasil";"12965678";"12410677";"11549427";"12613094";"13767431";"14444582";"12891486";"11907406";"13218892";"14198496";"15279652";"15432909";"15409183";"14970502";"17427206";"16126368";"17515920";"18258981";"18984300";"21066201";"22316340"
+"Área colhida - percentual do total geral";"Brasil";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00"
+"Quantidade produzida (Toneladas)";"Brasil";"48327323";"41787559";"35113311";"42661677";"52112217";"58933347";"47072082";"51420301";"55660235";"71072810";"80273172";"79881614";"85283700";"64188314";"97910658";"82366531";"101126409";"103990935";"88272116";"109738941";"131950246"
+"Quantidade produzida - percentual do total geral";"Brasil";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00";"100,00"
+"Rendimento médio da produção (Quilogramas por Hectare)";"Brasil";"3727";"3367";"3040";"3382";"3785";"4080";"3651";"4318";"4211";"5006";"5254";"5176";"5535";"4288";"5618";"5108";"5773";"5695";"4650";"5209";"5913"
+"Fonte: IBGE - Produção Agrícola Municipal"
+
+"Notas"
+"1 - Subentende a possibilidade de cultivos sucessivos ou simultâneos (simples, associados e/ou intercalados) no mesmo ano e no mesmo local, podendo, por isto, a área informada da cultura exceder a área geográfica do município."
+"2 - A diferença entre a área plantada e a área colhida na lavoura temporária é considerada como área perdida."
+"3 - Os dados das safras 2009 e 2010 da UF São Paulo não estão disponíveis, pois não foi possível obter informações detalhadas destas  safras."
+"4 - Os dados do último ano divulgado são RESULTADOS PRELIMINARES e podem sofrer alterações até a próxima divulgação."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
